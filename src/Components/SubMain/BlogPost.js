@@ -14,7 +14,7 @@ function BlogPost(props) {
                 <h3>{props.title}</h3>
                 <hr/>
                 <p>{props.description}{props.id}</p>
-                <Link to = {`/blog`}>Read More</Link>
+                <Link to = {`/servicedetails/${props.id}`}>Read More</Link>
             </div>
           </Blog>
       
