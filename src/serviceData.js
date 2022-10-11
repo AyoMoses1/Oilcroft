@@ -55,7 +55,7 @@ const servicesData = [
     {
         id: '9',
         title: "Well Design and Engineering Services",
-        content: "OOilcroft Energy provides world class Well Design and Engineering Services across the land, shallow water & deep offshore terrains. Our expertise spans over various projects executed for clients such as Chevron, SPDC/SNEPCo, NAOC, NPDC and Elcrest. With over thirty (30) years of combined practical knowledge, our capabilities include the complete planning and execution of a drilling campaign from start to finish.Our focus remains the completion of projects within approved costs while ensuring that operational excellence, quality and safety standards are maintained.",
+        content: "Oilcroft Energy provides world class Well Design and Engineering Services across the land, shallow water & deep offshore terrains. Our expertise spans over various projects executed for clients such as Chevron, SPDC/SNEPCo, NAOC, NPDC and Elcrest. With over thirty (30) years of combined practical knowledge, our capabilities include the complete planning and execution of a drilling campaign from start to finish.Our focus remains the completion of projects within approved costs while ensuring that operational excellence, quality and safety standards are maintained.",
         image: "/images/oilcroft/engineerdesign.jpg"
     }
 ]
