@@ -45,7 +45,7 @@ function Solutions() {
                 </SolutionCaption>
                 <div className="solutionContainer">
                     <div className='image__container'>
-                        <img src="/images/oilcroft/service2.jpg" alt=""/>
+                        <img src="/images/oilcroft/servicetwo.jpg" alt=""/>
                     </div>
                 </div>
             </div>
