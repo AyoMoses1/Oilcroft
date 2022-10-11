@@ -25,7 +25,7 @@ const servicesData = [
         id: '4',
         title: "Oil Field Solutions",
         content: "OilCroft Energy is equipped with an assorted inventory of oil field tools and make them available for rent/lease",
-        image: "/images/oilcroft/oilcroft2.jpg"
+        image: "/images/oilcroft/oilcroftwo.jpg"
     },
 
     {

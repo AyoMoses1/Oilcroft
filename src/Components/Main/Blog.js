@@ -30,7 +30,7 @@ function Blog() {
                <Stories>
                     <BlogPost>
                         <div className="blog__image">
-                            <img src="/images/oilcroft/others/oilcroft.jpg" alt="Blog" />
+                            <img src="/images/oilcroft/oilcroftwo.jpg" alt="Blog" />
                             <div className="blog__caption">
                                 <Date>
                                 <i class="fa fa-calendar" aria-hidden="true"></i>
@@ -74,7 +74,7 @@ function Blog() {
                     </BlogPost>
                     <BlogPost>
                         <div className="blog__image">
-                            <img src="/images/oilcroft/others/1.jpg" alt="Blog" />
+                            <img src="/images/oilcroft/others/one.jpg" alt="Blog" />
                             <div className="blog__caption">
                                 <Date>
                                 <i class="fa fa-calendar" aria-hidden="true"></i>

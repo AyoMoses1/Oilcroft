@@ -16,7 +16,7 @@ function BlogSub() {
             </div>
         </BlogCaption>
         <div className='blog__row container'>
-            <BlogPost image = "images/oilcroft/oilcroft2.jpg" title="Assorted of milling tools" description="OilCroft energy is equipped with an assorted inventory of oilfield tools" id={1}/>
+            <BlogPost image = "images/oilcroft/oilcroftwo.jpg" title="Assorted of milling tools" description="OilCroft energy is equipped with an assorted inventory of oilfield tools" id={1}/>
             <BlogPost image = "images/oilcroft/others/one.jpg" title="Life extension and integrity management" description="To proactively identify threats, design a mitigation plan" id={2}/>
             <BlogPost image = "/images/oilcroft/octgone.jfif" title="OCTG- Oil Country Tubular Goods" description="Our array of oil field tool rental is not limited to OCTG" id={3}/>
         </div>
