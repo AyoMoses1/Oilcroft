@@ -32,7 +32,7 @@ function Main() {
       <Niche/>
       <Solutions/>
       <Partners/>
-      <Testimonial/>
+      {/* <Testimonial/> */}
       <MainDivider>
           <div className="container">
               <p>Outline Your World</p>
