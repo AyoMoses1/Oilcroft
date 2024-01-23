@@ -18,7 +18,7 @@ function Services() {
     return (
       <BlogPost
         title={data.title}
-        description={data.content.slice(0, 100)}
+        description={data.content.slice(0, 80)+ "..."}
         image={data.image}
         key={data.id}
         id={data.id}
