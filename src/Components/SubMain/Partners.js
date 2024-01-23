@@ -50,7 +50,7 @@ function Partners() {
                 <img src="/images/logos/shell.jpg" alt=""/>
             </div>
             <div className="image__container">
-                <img src="/images/logos/agip.jpg" alt=""/>
+                <img src="/images/new/matrix.jpg" alt=""/>
             </div>
             <div className="image__container">
                 <img src="/images/logos/exxon.jpg" alt=""/>
@@ -65,7 +65,7 @@ function Partners() {
               <img src="/images/logos/chevron.jpg" alt=""/>
             </div>
             <div className="image__container">
-              <img src="/images/logos/newcross.jpg" alt=""/>
+              <img src="/images/new/voyage.jpg" alt=""/>
             </div>
             <div className="image__container">
               <img src="/images/logos/total.jpg" alt=""/>
@@ -83,10 +83,13 @@ function Partners() {
               <img src="/images/logos/nestoil.jpg" alt=""/>
             </div>
             <div className="image__container">
-              <img src="/images/logos/first.jpg" alt=""/>
+              <img src="/images/new/weatherford.jpg" alt=""/>
             </div>
             <div className="image__container">
-              <img src="/images/logos/eroton.jpg" alt=""/>
+              <img src="/images/new/geoplex.jpg" alt=""/>
+            </div>
+            <div className="image__container">
+              <img src="/images/new/sahara-group.jpg" alt=""/>
             </div>
           </SlickCarousel>
       </Container>
