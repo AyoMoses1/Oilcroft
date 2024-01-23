@@ -32,7 +32,7 @@ function About() {
         
       </Container>
         <ContactUs/>
-        <Testimonial/>
+        {/* <Testimonial/> */}
         <Footer/>
       </>
   )
