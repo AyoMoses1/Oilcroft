@@ -27,7 +27,7 @@ function Header() {
           <div className="contact-div">
             <span className="light">Send Us Mail</span>
             <br />
-            <span className="bold">info@oilcroft.com</span>
+            <span className="bold">business@oilcroft.com</span>
           </div>
         </div>
         <div className="contact-col">

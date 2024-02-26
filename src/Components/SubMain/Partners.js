@@ -77,9 +77,6 @@ function Partners() {
               <img src="/images/logos/blaqskye.jpg" alt=""/>
             </div>
             <div className="image__container">
-              <img src="/images/logos/transpacia.jpg" alt=""/>
-            </div>
-            <div className="image__container">
               <img src="/images/logos/nestoil.jpg" alt=""/>
             </div>
             <div className="image__container">

@@ -25,15 +25,15 @@ const Footer = (props) => {
               <i class="fa fa-envelope" aria-hidden="true"></i>
             </span>
             <a href="mailto:oilcroft@gmail.com" className="offset-right">
-              info@oilcroft.com
+              business@oilcroft.com{" "}
             </a>
           </div>
-          <div style={{display: "flex"}}>
+          <div style={{ display: "flex" }}>
             <span className="dark-grey">
               <i class="fa fa-home" aria-hidden="true"></i>
             </span>
             <span className="offset-right">
-              House 5 Road 211 Trans Amadi Gardens <br/>
+              House 5 Road 211 Trans Amadi Gardens <br />
               Lekki Rite Hub, 36 Oriwu St, Eti-Osa, Lagos 102273, Lagos
             </span>
           </div>
