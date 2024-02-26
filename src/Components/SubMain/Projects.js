@@ -67,6 +67,7 @@ function Projects() {
             <Link to="/services" className="red-btn">VIEW ALL PROJECTS</Link>
           </div> */}
     </Container>
+    
   );
 }
 
